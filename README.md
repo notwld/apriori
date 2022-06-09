@@ -1,4 +1,4 @@
-#Link : <a href="https://apriori.netlify.app/">https://apriori.netlify.app/</a>
+# Link : <a href="https://apriori.netlify.app/" target="_blank">https://apriori.netlify.app/</a>
 
 # Getting Started with Create React App
 
